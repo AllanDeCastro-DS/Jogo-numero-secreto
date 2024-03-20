@@ -1,1 +1,1 @@
-Jogo de bynero sereto
+Jogo de numero sereto
